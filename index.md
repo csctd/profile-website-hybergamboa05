@@ -1,6 +1,8 @@
-# Page Title
+# Akatsuki
 
-A short introduction for the top of your main page
+My name is Hyber
+Currently an Undergrad 
+Class of 2027
 
 
 More content you want on your page
