@@ -5,7 +5,6 @@ Currently an Undergrad
 Class of 2027
 
 
-More content you want on your page
 
 
 
@@ -15,4 +14,5 @@ More content you want on your page
 :hidden:
 
 pechakucha
+TD_Schedule
 ```
