@@ -3,6 +3,10 @@ div.profile-pic {
     margin-top: 1em;
 }
 
+body{
+    background-color: antiquewhite !important;
+}
+
 figure.profile-pic img {
     /* border-radius: 500px; */
     width: 80%;

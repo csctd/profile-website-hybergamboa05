@@ -13,5 +13,5 @@
 ```{card} 
 :class-card: slide
 
-![alt text](_static/img/IMG_2002.jpg)
+![alt text](_static/img/IMG_7294.jpg)
 ```
