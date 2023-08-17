@@ -4,9 +4,13 @@ div.profile-pic {
 }
 
 body{
-    background-color: antiquewhite !important;
+    background-color: lightsalmon !important;
+
 }
 
+aside.bio-ifo{ 
+    background-color:lightgreen ;
+}
 figure.profile-pic img {
     /* border-radius: 500px; */
     width: 80%;
@@ -104,7 +108,7 @@ div.timeline div.card {
 
 div.timeline div.left {
     text-align: right;
-    border-right: 1px solid black;
+    border-right: 1px solid lightgreen;
 }
 
 div.timeline div.entry::after {
@@ -161,19 +165,19 @@ div.admonition.git>.admonition-title:after {
 
 /*  define the blue  cards*/
 div.sd-card.blue {
-    border-color: navy;
+    border-color: lightgreenF;
     border-width: 5px;
     box-shadow: lightblue;
 }
 
 div.sd-card.blue div.sd-card-header{
     background-color:  lightblue;
-    color: navy;
+    color: lightgreen;
 }
 
 div.sd-card.blue div.sd-card-footer{
     color: lightblue;
-    background-color: navy;
+    background-color: lightgreen;
 }
 
 /*  define the pink  cards*/
@@ -234,7 +238,7 @@ div.admonition.pink>.admonition-title:after {
 
 /* the background in full screen mode */
 #slideshow::backdrop {
-    background-color: darkblue;
+    background-color: lightcoral;
 }
 
 
